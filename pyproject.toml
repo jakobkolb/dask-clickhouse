@@ -10,7 +10,7 @@ homepage = "https://github.com/mharrisb1/dask-clickhouse"
 
 [tool.poetry.dependencies]
 python = ">=3.8,<3.11"
-dask = "^2022.7.1"
+dask = "^2023.3.1"
 pyarrow = "^9.0.0"
 ibis-framework = {extras = ["clickhouse"], version = "^3.1.0"}
 
